@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "outDir": "build",
+    "outDir": "build1",
     "target": "es5",
     "module": "esnext",
     "typeRoots": [

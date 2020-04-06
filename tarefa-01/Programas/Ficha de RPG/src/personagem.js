@@ -1,5 +1,7 @@
+"use strict";
+exports.__esModule = true;
 var personagem = /** @class */ (function () {
-    function personagem() {
+    function personagem(nome, clasS, level, hp, mana) {
         var _this = this;
         this.setName = function (name) {
             _this.name = name;
@@ -31,6 +33,12 @@ var personagem = /** @class */ (function () {
         this.getMana = function () {
             return _this.mana;
         };
+        this.name = name;
+        this.clasS = clasS;
+        this.level = level;
+        this.hp = hp;
+        this.mana = mana;
     }
     return personagem;
 }());
+exports.personagem = personagem;
