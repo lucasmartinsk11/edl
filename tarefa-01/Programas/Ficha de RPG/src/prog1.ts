@@ -9,6 +9,3 @@ getPersonagens ().then(p => {
     let personagens : Personagem[] = p;
     console.log(personagens)
 });
-
-// let a: string  = $('body').value;
-// console.log(a)

@@ -1,5 +1,4 @@
-
-export class Personagem{
+export interface Personagem{
     name : string;
     clasS: string;
     level: number;

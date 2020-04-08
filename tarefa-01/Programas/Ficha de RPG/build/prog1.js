@@ -55,5 +55,3 @@ getPersonagens().then(function (p) {
     var personagens = p;
     console.log(personagens);
 });
-var a = $('body').value;
-console.log(a);
