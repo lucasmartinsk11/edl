@@ -1,6 +1,6 @@
 # Lucas Martins
 Aluno de **Ciência da Computação - UERJ**  
-Estruturas de Linguagens - 2020.1
+Estruturas de Linguagens - 2020.2
 
 ```
 Um dia digito algo
